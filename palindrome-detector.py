@@ -1,4 +1,4 @@
-# IS PALINDROME DETECTOR!
+# IT IS PALINDROME DETECTOR!
 
 FILTER_ = [" ", "?", ",", "!", ".", "'", "–"]
 
