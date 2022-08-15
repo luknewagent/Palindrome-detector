@@ -32,3 +32,5 @@ while True:
     user_text = input(">>")
     isPalindrome(user_text)
     print()
+    if user_text == "exit":
+        break
