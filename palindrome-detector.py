@@ -37,7 +37,7 @@ def isPalindrome(text_):
 
 def main():
     while True:
-        print('ENTER A WORD OR PHRASE BELOW AND SEE IF IT'S A PALINDROME! or enter "exit" to quit the program')
+        print('ENTER A WORD OR PHRASE BELOW AND SEE IF IT\'S A PALINDROME! or enter "exit" to quit the program')
         user_text = input(">>")
         isPalindrome(user_text)
         print()
